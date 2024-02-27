@@ -1,0 +1,8 @@
+{
+  "name": "my-project",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  }
+}
