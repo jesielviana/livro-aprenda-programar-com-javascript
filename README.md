@@ -26,8 +26,6 @@ Os exercícios práticos incluídos ajudam os alunos a consolidar seu entendimen
 
 Agradeço pelo seu compromisso com a educação e por seu interesse em promover o aprendizado de programação. Espero que este recurso seja útil e inspire seus alunos a alcançarem todo o seu potencial na área de tecnologia da informação.
 
-Todo o material complementar, incluindo exemplos de códigos e slides, está disponível neste repositório no GitHub: https://github.com/jesielviana/livro-aprenda-programar-com-javascript
-
 Atenciosamente,
 
 Prof. Jesiel Viana
