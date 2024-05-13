@@ -14,7 +14,7 @@ Cada capítulo foi meticulosamente estruturado, não apenas em termos de conteú
 
 Por fim, este livro oferece uma jornada de aprendizado acessível e estimulante, com uma abordagem prática e clara, acompanhada por exemplos e exercícios desafiadores, é uma escolha valiosa para explorar o mundo da programação, tanto para iniciantes quanto para educadores em busca de recursos para suas aulas.
 
-## Para professores
+## Professores
 
 Caro colega professor,
 
