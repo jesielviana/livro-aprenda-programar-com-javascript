@@ -22,4 +22,4 @@ Os professores que adotarem este livro em suas disciplinas podem solicitar uma c
 
 ## Autor
 
-Jesiel Viana é um profissional com mais de 15 anos de experiência em desenvolvimento de software e ensino de programação. Possui amplo conhecimento em desenvolvimento web utilizando Java e JavaScript, com vasta experiência em tecnologias como Spring, Node.js, Angular, Vue.js e React.js. Detentor de um mestrado em Engenharia de Software e um MBA em Tecnologia da Informação, Jesiel é professor efetivo no Instituto Federal do Piauí (IFPI) e colaborador em projetos de pesquisa no Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT).
+Jesiel Viana é um profissional com mais de 15 anos de experiência em desenvolvimento de software e ensino de programação. Especialista em desenvolvimento web, possui vasta experiência em tecnologias como Java, JavaScript, Node, Angular, Vue e React. Mestre em Engenharia de Software, Jesiel é atualmente professor efetivo no Instituto Federal do Piauí (IFPI) e colaborador em projetos de pesquisa no Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT).
