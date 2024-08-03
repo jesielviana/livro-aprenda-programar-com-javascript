@@ -1,25 +1,23 @@
 // Declaração de variáveis
-var ano =  2024;
-
-let nome = 'José';
-
+var ano = 2024;
+let nome = "José";
 const PI = 3.14;
 
 // Atribuição de valores
-let cidade = 'Picos';
+let cidade = "Picos";
 
 let estado;
 
-estado = 'Piauí';
+estado = "Piauí";
 
-const pais = 'Brasil';
+const pais = "Brasil";
 
 // Alteração de valores
-let nomeCompleto = 'Antonio Silva'; // Inicializando a variável "nome"
+let nomeCompleto = "Antonio Silva"; // Inicializando a variável "nome"
 
 console.log(nomeCompleto); // Saída: Antonio Silva
 
-nomeCompleto = 'Maria Pereira'; // Alterando o valor da variável "nome"
+nomeCompleto = "Maria Pereira"; // Alterando o valor da variável "nome"
 
 console.log(nomeCompleto); // Saída: Maria Pereira
 
