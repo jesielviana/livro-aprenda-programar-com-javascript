@@ -31,6 +31,7 @@ Os professores que adotarem este livro em suas disciplinas podem solicitar uma c
 - [Capítulo 8](https://docs.google.com/presentation/d/1E2b-gZTmmXpqomm02Q3TiD_ZnbnT8npPg7_bqigi1rA/edit?usp=sharing)
 - [Capítulo 9](https://docs.google.com/presentation/d/1zb1O4xZODgbmJk8JHQ7YLjdUtYIfu0NZ-SkaEvwiBlU/edit?usp=sharing)
 - [Capítulo 10](https://docs.google.com/presentation/d/1b4U4gWzBoDnUufXwenrjdR2tlY74AvGktxL0PEAdEQ8/edit?usp=sharing)
+- [Capítulo 11](https://docs.google.com/presentation/d/1d-jp9i2wZVM_ZWdhirqsF2jHEZQttGbQAigigXnqqdY/edit?usp=sharing)
 
 ## Autor
 
